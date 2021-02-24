@@ -1,3 +1,6 @@
+built/
+dist/
+nbproject/
 .mk
 .properties
 .mk
@@ -5,3 +8,5 @@
 .i
 .p1
 .d
+.cmf
+.elf
